@@ -1,6 +1,10 @@
 # Formative 3: Probability Distributions, Bayesian Probability, and Gradient Descent Implementation 
 
 A comprehensive exploration of Probability Distributions, Bayesian Probabilisty, and Gradient Descent.
+## Relevant Links
+Link to the Google Colab: [Formative3_Group5.ipynb](https://colab.research.google.com/drive/1CpG3gW1nvbBv_uFEsxkuEcmiPngB2pdK?usp=sharing)
+Link to Gradient Descent Manual Calculation: [Gradient Descent Manual Calculation.pdf](https://drive.google.com/file/d/1Z4oUGABow4JvLxkb4rKUfx7U4RWmtyWJ/view?usp=sharing)
+Link to Contribution pdf: [Formative3_Group5-Contributions.pdf](https://drive.google.com/file/d/1bVlpd3Aw1t_g_tnGr0_dr9v8TAY2QqhI/view?usp=sharing)
 
 ## Overview
 
