@@ -59,9 +59,9 @@ kagglehub
 
 | Member | Responsibility |
 |--------|---------------|
-| Mike Kevin Ntwari | Manual Iteration 1, Code Implementation |
+| Mike Kevin Ntwari | MSE Derivative, Manual Iteration 1, Code Implementation |
 | Lorita Sesame Icyeza | Probability Distributions, Manual Iteration 2 |
-| Milka Isingizwe | Visualizations, Manual Iteration 3 |
+| Milka Isingizwe | Gradient Descent Code implementation, Visualizations, Manual Iteration 3 |
 | Nick-Lemy Kayiranga | Bayesian Probability, Manual Iterations 4-5 |
 
 ## Usage
